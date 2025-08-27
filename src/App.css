@@ -9,6 +9,8 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 20px;
+  background-color: black;
+  color:#ffffff;
 }
 
 .header {
@@ -31,7 +33,6 @@ body {
 
 .tagline {
   font-style: italic;
-  color: #666;
 }
 
 section {
@@ -56,6 +57,7 @@ h2 {
   background: #f5f5f5;
   border-radius: 8px;
   transition: 0.3s;
+  color:#333
 }
 
 .skills li:hover {

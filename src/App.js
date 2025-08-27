@@ -14,8 +14,7 @@ function App() {
       <section className="about">
         <h2>About Me</h2>
         <p>
-          Passionate developer with experience in building web applications.
-          I enjoy exploring new technologies and creating meaningful solutions.
+          I transform ideas into interactive, user-friendly applications. I focus on clean code, intuitive interfaces, and performance — and I love experimenting with AI-powered tools and modern web patterns to make development smarter.
         </p>
       </section>
 
