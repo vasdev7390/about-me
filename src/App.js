@@ -1,11 +1,12 @@
 import React from "react";
 import "./App.css";
+import VASLogo from "./assets/logo.png";
 
 function App() {
   return (
     <div className="app">
       <header className="header">
-        <img src="./assets/logo.png" alt="Me" className="profile-pic" />
+        <img src={VASLogo} alt="Me" className="profile-pic" />
         <h1>Hi, I'm Vas 👋</h1>
         <p className="tagline">React & Angular Developer | Tech Explorer</p>
       </header>
